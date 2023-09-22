@@ -1,4 +1,4 @@
-## Trabajo practico anual
+## Trabajo practico anual sin debugear ni limpiar.
 
 import random
 import math
